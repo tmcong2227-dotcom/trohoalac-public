@@ -1,0 +1,1369 @@
+{
+  "source": "detail_urls.csv và trohoalac_raw(1).csv",
+  "named": [
+    {
+      "name": "YoungHouse 3",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-3-e6d2f614-8348-453a-913e-f6e657eed382"
+    },
+    {
+      "name": "Thu Thủy Apartment",
+      "url": "https://trohoalac.com/phong-tro-detail/thu-thuy-apartment-48d01326-e5d9-49e7-a0e7-16bdca7b994c"
+    },
+    {
+      "name": "Biệt thự ngay cổng ĐHQG",
+      "url": "https://trohoalac.com/phong-tro-detail/biet-thu-ngay-cong-hqg-4ef6c1d1-2431-44d9-9ca0-d6416daacb46"
+    },
+    {
+      "name": "C Home 7",
+      "url": "https://trohoalac.com/phong-tro-detail/c-home-7-01e05b8c-a68d-48b0-8285-0e27ac22ec9d"
+    },
+    {
+      "name": "C Home 6",
+      "url": "https://trohoalac.com/phong-tro-detail/c-home-6-70ec348e-e122-4504-8547-1fc3abf7dc58"
+    },
+    {
+      "name": "Happy House",
+      "url": "https://trohoalac.com/phong-tro-detail/happy-house-ed1cae67-7e31-4639-a832-2cb1e9c3b484"
+    },
+    {
+      "name": "Trọ Trang Nguyên",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-trang-nguyen-cfdb2499-7404-493a-97a3-08c470b688ed"
+    },
+    {
+      "name": "C Home's 5",
+      "url": "https://trohoalac.com/phong-tro-detail/c-home-s-5-19d5dc78-e678-4851-b082-286fb56ff1a0"
+    },
+    {
+      "name": "Tony House",
+      "url": "https://trohoalac.com/phong-tro-detail/tony-house-88c85e64-1a0f-47ff-9a64-fbfb8bebe32b"
+    },
+    {
+      "name": "Trọ chị Tấm",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-chi-tam-cc77844c-3301-4c23-a898-42373f162886"
+    },
+    {
+      "name": "YoungHouse 2 - Phòng studio 2 giường đơn",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-2-phong-studio-2-giuong-on-5a0259ee-e5b9-4d88-b943-fba45943a503"
+    },
+    {
+      "name": "LuxHome - URHome",
+      "url": "https://trohoalac.com/phong-tro-detail/luxhome-urhome-9d4e2afc-3d8d-4513-bc40-236ff428c70a"
+    },
+    {
+      "name": "V Village",
+      "url": "https://trohoalac.com/phong-tro-detail/homestay-v-village-ae87ba22-5840-4145-a674-f8c763ec0bc4"
+    },
+    {
+      "name": "PH Luxury",
+      "url": "https://trohoalac.com/phong-tro-detail/ph-luxury-0b2ba550-226f-4523-9e65-280374fd2928"
+    },
+    {
+      "name": "TRG Building - URHome",
+      "url": "https://trohoalac.com/phong-tro-detail/trg-building-urhome-15a921ab-377f-445a-b908-8b0c84be1fda"
+    },
+    {
+      "name": "URHome 6",
+      "url": "https://trohoalac.com/phong-tro-detail/urhome-6-196f6fda-4a3e-4fad-a87c-5990a3f7d133"
+    },
+    {
+      "name": "Hoàng Kim House",
+      "url": "https://trohoalac.com/phong-tro-detail/hoang-kim-house-ab2ddf33-1a99-4423-87d6-bf9a38cda713"
+    },
+    {
+      "name": "Eco House",
+      "url": "https://trohoalac.com/phong-tro-detail/eco-house-9558c4ce-8dc5-433c-b56f-4bafdf87b375"
+    },
+    {
+      "name": "Trọ Bình Yên",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-binh-yen-147e368d-8858-4f6b-815e-e0c73fe56156"
+    },
+    {
+      "name": "YoungHouse 7",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-7-beac3849-f4fc-42b3-9005-a4fcc3a3b9c9"
+    },
+    {
+      "name": "C Home 3",
+      "url": "https://trohoalac.com/phong-tro-detail/c-home-3-5a520551-8441-474b-aae0-cd268b5e206a"
+    },
+    {
+      "name": "YoungHouse 6",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-6-5391df25-4223-410b-baef-1a26b8f5d41a"
+    },
+    {
+      "name": "YoungHouse 10",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-10-d6c3894e-1aa4-416c-900e-c2fe022c99e4"
+    },
+    {
+      "name": "URHome",
+      "url": "https://trohoalac.com/phong-tro-detail/urhome-cdc0cb8a-687f-4abc-9085-1fe31f5b3cf6"
+    },
+    {
+      "name": "Trọ Công Hồng",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-cong-hong-ca1b9332-24bc-427e-a2d4-6a2d7cd786a3"
+    },
+    {
+      "name": "Trọ Bắc Phú Cát",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-bac-phu-cat-d3dbee20-caca-460c-82c7-a055e283b209"
+    },
+    {
+      "name": "Trọ cô Tính",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-co-tinh-0b312928-99de-4739-ad54-eb0043663310"
+    },
+    {
+      "name": "Trọ Đức Tuân - Ngay cổng ĐHQG",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-uc-tuan-ngay-cong-hqg-ab3938d7-fe83-4a33-ab44-dcd87df17936"
+    },
+    {
+      "name": "Nhà trọ Sơn Nam",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-son-nam-d61f4e6a-380c-4bcb-945a-9a8103626deb"
+    },
+    {
+      "name": "Thôn 4 Thạch Hoà",
+      "url": "https://trohoalac.com/phong-tro-detail/thon-4-thach-hoa-4c992034-59ea-47e1-aa10-944c669deced"
+    },
+    {
+      "name": "Trọ Huyền Tí",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-huyen-ti-10821a90-04db-4ade-ad6b-4c47af98ee69"
+    },
+    {
+      "name": "Nhà trọ Hải Đăng",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-hai-ang-a74c6ec7-070e-4407-aa9d-22c339b7594a"
+    },
+    {
+      "name": "White Home",
+      "url": "https://trohoalac.com/phong-tro-detail/white-home-43f6e28f-4f10-4da0-9c3d-304063a5ea7f"
+    },
+    {
+      "name": "An's House",
+      "url": "https://trohoalac.com/phong-tro-detail/an-s-house-9791bca9-9794-4b7c-b0ed-666f19687ae9"
+    },
+    {
+      "name": "FHome - URHome",
+      "url": "https://trohoalac.com/phong-tro-detail/fhome-urhome-c4480c14-4110-4250-a9be-01b1b7166721"
+    },
+    {
+      "name": "Hola Gate",
+      "url": "https://trohoalac.com/phong-tro-detail/hola-gate-4155d097-5f99-474a-b255-a143abfc7078"
+    },
+    {
+      "name": "Hoà Lạc Apartment",
+      "url": "https://trohoalac.com/phong-tro-detail/hoa-lac-apartment-5f4d98f9-3c2c-4bc9-b924-34e530e21c3f"
+    },
+    {
+      "name": "Trọ Thu Thủy",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-thu-thuy-32bad066-753a-4388-84f3-3f5b7b276dc0"
+    },
+    {
+      "name": "Phòng sát cổng ĐHQG",
+      "url": "https://trohoalac.com/phong-tro-detail/phong-sat-cong-hqg-1608c152-74fc-4dc0-b28f-9434aa25b279"
+    },
+    {
+      "name": "Trọ chú Cương",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-chu-cuong-849ead08-7dda-4800-9c3d-40ab4b1b8f2a"
+    },
+    {
+      "name": "V Village",
+      "url": "https://trohoalac.com/phong-tro-detail/v-village-ae87ba22-5840-4145-a674-f8c763ec0bc4"
+    },
+    {
+      "name": "Thiên Long Building",
+      "url": "https://trohoalac.com/phong-tro-detail/thien-long-building-f6835edd-14c7-47d7-8514-4561550c8641"
+    },
+    {
+      "name": "Trọ An Bình",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-an-binh-72a4946a-76f6-47df-beab-ed149fed2a30"
+    },
+    {
+      "name": "YoungHouse 9",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-9-a48bc9da-ea08-41e4-bb4b-65d47da18751"
+    },
+    {
+      "name": "Mia's House",
+      "url": "https://trohoalac.com/phong-tro-detail/mia-s-house-4ab0b925-4a3d-44b2-bc99-c7e847b278c0"
+    },
+    {
+      "name": "YoungHouse 12 - Phòng giường đôi",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-12-phong-giuong-oi-57bc7d9b-9306-4b8f-9dde-a3184aefabaa"
+    },
+    {
+      "name": "Green Home",
+      "url": "https://trohoalac.com/phong-tro-detail/green-home-a77fc48a-5373-47a4-8d0f-dba4bfcbb849"
+    },
+    {
+      "name": "Rubino House",
+      "url": "https://trohoalac.com/phong-tro-detail/rubino-house-511ce6a3-5355-41f9-bfdb-50889e1d76f6"
+    },
+    {
+      "name": "Young House 4 - Gần NIC",
+      "url": "https://trohoalac.com/phong-tro-detail/young-house-4-gan-nic-f459929c-9942-4318-81a0-d00ed7e54a5a"
+    },
+    {
+      "name": "Studio ngay chợ Hoà Lạc",
+      "url": "https://trohoalac.com/phong-tro-detail/studio-ngay-cho-hoa-lac-9f9d3d22-4ee0-43b5-945a-c83edd270ed8"
+    },
+    {
+      "name": "WhiteHouse",
+      "url": "https://trohoalac.com/phong-tro-detail/whitehouse-c8f426a5-41d0-48e2-80fe-90a8a425de8a"
+    },
+    {
+      "name": "Ohio House 384",
+      "url": "https://trohoalac.com/phong-tro-detail/ohio-house-384-9ed7a9e7-21b0-416f-8304-32824fa27b1d"
+    },
+    {
+      "name": "Nhà trọ Thành Hoa",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-thanh-hoa-9bcbf31f-ccb9-4019-bf6c-6c66f5ca6b4b"
+    },
+    {
+      "name": "Trọ Ngọc Linh",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-ngoc-linh-0db38eff-e3ab-4c7b-9fed-8a6989680144"
+    },
+    {
+      "name": "YoungHouse 12",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-12-4e07aaef-8c3b-4b46-9266-bad5b56742df"
+    },
+    {
+      "name": "Trọ Ngọc Trai - Gần ĐH Việt Nhật",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-ngoc-trai-gan-h-viet-nhat-95925df1-94c5-40db-ae4c-980bf6e1139d"
+    },
+    {
+      "name": "Black Rose House",
+      "url": "https://trohoalac.com/phong-tro-detail/black-rose-house-f313766a-d1c2-47da-925c-9aa60cd53c94"
+    },
+    {
+      "name": "YoungHouse 5 - Phòng 2 giường",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-5-phong-2-giuong-7f77ae01-ff29-460f-89a5-9e45497de86c"
+    },
+    {
+      "name": "C Home 2",
+      "url": "https://trohoalac.com/phong-tro-detail/c-home-2-e96a894a-61d7-4854-af0c-97a0a97bd1a2"
+    },
+    {
+      "name": "Trọ Bình Yên mới tinh",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-binh-yen-moi-tinh-381d3492-195b-4dcb-a3ee-ae4dd3b33070"
+    },
+    {
+      "name": "Studio 2 ngủ 1 khách",
+      "url": "https://trohoalac.com/phong-tro-detail/studio-2-ngu-1-khach-6e315374-fc45-4aaf-806c-ac8394e17341"
+    },
+    {
+      "name": "Hoàng Anh Home",
+      "url": "https://trohoalac.com/phong-tro-detail/hoang-anh-home-423cacd5-bca3-4d45-813f-d0b53c4aae4c"
+    },
+    {
+      "name": "Cho Thuê Phòng Trọ Giá Sinh Viên 1.7Tr - 2Tr Gần Cây Xăng 39, Thôn 3",
+      "url": "https://trohoalac.com/phong-tro-detail/cho-thue-phong-tro-gia-sinh-vien-1-7tr-2tr-gan-cay-xang-39-thon-3-0d9d8f3c-7488-4fae-8df9-b82c9e36cc83"
+    },
+    {
+      "name": "Happy Home",
+      "url": "https://trohoalac.com/phong-tro-detail/happy-home-f3602bef-68f1-446c-b362-522e08f4e073"
+    },
+    {
+      "name": "YoungHouse 11",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-11-a7259593-45bc-4b8e-a60e-e1484ebfb3ca"
+    },
+    {
+      "name": "Nhà trọ You & Me",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-you-me-eaca955e-aa94-4b48-9441-709b0d4055d3"
+    },
+    {
+      "name": "Ohio House 1",
+      "url": "https://trohoalac.com/phong-tro-detail/ohio-house-1-e44aaf5f-110f-4d4c-bf42-7788decedf55"
+    },
+    {
+      "name": "Cho thuê Nhà trọ Sinh viên tại Hoà Lạc. Gần Đại học FPT, ĐHQGHN. Giá từ 1tr6",
+      "url": "https://trohoalac.com/phong-tro-detail/cho-thue-nha-tro-sinh-vien-tai-hoa-lac-gan-ai-hoc-fpt-hqghn-gia-tu-1tr6-26d7f5b2-211a-44be-a084-08b2338b1cd8"
+    },
+    {
+      "name": "TH House",
+      "url": "https://trohoalac.com/phong-tro-detail/th-house-6cf41aa1-cca3-4304-90aa-4cd4fc298d70"
+    },
+    {
+      "name": "Phenika căn góc siêu rộng",
+      "url": "https://trohoalac.com/phong-tro-detail/phenika-can-goc-sieu-rong-1b12794a-87b5-4477-8f00-8dcf31d9b84f"
+    },
+    {
+      "name": "Trọ Thôn 4 Thạch Hoà",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-thon-4-thach-hoa-b8a20789-d20c-4d95-82e6-b62bdec986be"
+    },
+    {
+      "name": "SunHome",
+      "url": "https://trohoalac.com/phong-tro-detail/sunhome-956694f3-bcde-4691-96c2-fdc29960d6a0"
+    },
+    {
+      "name": "YoungHouse 2 - Phòng 2 giường đơn có giếng trời thoáng",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-2-phong-2-giuong-on-co-gieng-troi-thoang-7e9bc308-5270-4d62-ba98-466c37c8d0cd"
+    },
+    {
+      "name": "Young House 1",
+      "url": "https://trohoalac.com/phong-tro-detail/young-house-1-4b8a3f91-8347-4210-831c-1cca998011c7"
+    },
+    {
+      "name": "Trọ Mới tại Phú Hữu full đồ",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-moi-tai-phu-huu-full-o-fad34258-7906-4513-b9f7-d12f4e352712"
+    },
+    {
+      "name": "Trọ Bắc Phú Cát",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-bac-phu-cat-259b016b-3528-4736-9fd7-58c6e256d883"
+    },
+    {
+      "name": "THÔN 3 HOÀ LẠC – BẾP TÁCH BIỆT – GIÁ HỌC SINH SINH VIÊN!",
+      "url": "https://trohoalac.com/phong-tro-detail/thon-3-hoa-lac-bep-tach-biet-gia-hoc-sinh-sinh-vien-f8f6408c-882f-49a7-887f-9d126a0af094"
+    },
+    {
+      "name": "Phòng Gác Xép Rộng Rãi Cho 2-3 Người Tại Thôn 4",
+      "url": "https://trohoalac.com/phong-tro-detail/phong-gac-xep-rong-rai-cho-2-3-nguoi-tai-thon-4-d6e89274-913d-40df-99c6-73bae9ad04cc"
+    },
+    {
+      "name": "PHÒNG ĐẸP GIÁ SINH VIÊN – NGAY GẦN FPT & ĐHQG",
+      "url": "https://trohoalac.com/phong-tro-detail/phong-ep-gia-sinh-vien-ngay-gan-fpt-hqg-bb789eb8-a580-4a99-9f21-93c23a05a51b"
+    },
+    {
+      "name": "SV Home",
+      "url": "https://trohoalac.com/phong-tro-detail/sv-home-fe9230d7-7a9e-46ed-95df-6e2bd3bc008e"
+    },
+    {
+      "name": "YoungHouse 2 - Phòng 2 ngủ 1 khách",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-2-phong-2-ngu-1-khach-f0d547dd-7589-4921-86f5-55684788ebde"
+    },
+    {
+      "name": "Grand PEK",
+      "url": "https://trohoalac.com/phong-tro-detail/grand-pek-7716bee5-714a-43d5-bc27-d8f3ce700cc7"
+    },
+    {
+      "name": "Trọ xinh đối diện cổng phụ FPT",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-xinh-oi-dien-cong-phu-fpt-0a78a3ba-0e14-47d0-878b-8e684ab924dc"
+    },
+    {
+      "name": "Căn hộ siêu rộng tại thôn 2 Tân Xã",
+      "url": "https://trohoalac.com/phong-tro-detail/can-ho-sieu-rong-tai-thon-2-tan-xa-edea618a-8448-4c9a-a2aa-7baf0c794647"
+    },
+    {
+      "name": "Phòng đẹp giá tốt - NGAY MẶT ĐƯỜNG QL21",
+      "url": "https://trohoalac.com/phong-tro-detail/phong-ep-gia-tot-ngay-mat-uong-ql21-24bfa43a-acdd-494e-8c14-d9934458d0df"
+    },
+    {
+      "name": "Đồi Sim Home",
+      "url": "https://trohoalac.com/phong-tro-detail/oi-sim-home-4ddd5f94-d452-4fef-ba75-6f11d0650e53"
+    },
+    {
+      "name": "Trọ chị Tâm",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-chi-tam-14d9672f-7e88-4182-a63e-ece65887ae5c"
+    },
+    {
+      "name": "[TĐC BẮC PHÚ CÁT] Phòng xịn giá hời– FULL ĐỒ CHỈ VIỆC XÁCH VALI VÀO Ở! 🚀",
+      "url": "https://trohoalac.com/phong-tro-detail/t-c-bac-phu-cat-phong-xin-gia-hoi-full-o-chi-viec-xach-vali-vao-o-e5ef48e0-47e3-4663-a2e4-8d58fc7d8a0d"
+    },
+    {
+      "name": "Minh Anh House",
+      "url": "https://trohoalac.com/phong-tro-detail/minh-anh-house-5365be2a-aeaf-46b6-bcae-fd147914007f"
+    },
+    {
+      "name": "Phòng trọ Phú Hữu sẵn tủ lạnh",
+      "url": "https://trohoalac.com/phong-tro-detail/phong-tro-phu-huu-san-tu-lanh-7d6b68a7-0bb5-4a97-9bde-8b0f9b96dd61"
+    },
+    {
+      "name": "Trọ Minh Anh",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-minh-anh-7afd0bfe-a7b4-4245-b58e-2921a7cdeead"
+    },
+    {
+      "name": "Chung cư SkyHome 1 ngủ 1 khách",
+      "url": "https://trohoalac.com/phong-tro-detail/chung-cu-skyhome-1-ngu-1-khach-b79e50b7-3dfb-48b6-ac0b-a3fe5898e7d1"
+    },
+    {
+      "name": "Chung cư  Phenika 2 ngủ 2 Vs",
+      "url": "https://trohoalac.com/phong-tro-detail/chung-cu-phenika-2-ngu-2-vs-d02309bf-4852-4ddb-932a-f31e97779cea"
+    },
+    {
+      "name": "SIÊU PHẨM 1N1K CHỈ 2TR7 – TÁI ĐỊNH CƯ BÌNH YÊN",
+      "url": "https://trohoalac.com/phong-tro-detail/sieu-pham-1n1k-chi-2tr7-tai-inh-cu-binh-yen-460e2b11-39df-4800-9c59-0f7f546345f8"
+    },
+    {
+      "name": "Nhà trọ Legend",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-legend-21ba4ffb-ed8f-4f14-830e-c81c89536ec1"
+    },
+    {
+      "name": "Trọ mới tại Thôn 3 Thạch Hoà",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-moi-tai-thon-3-thach-hoa-ae7fa61a-1e67-4db0-a6c9-d16fcce91b93"
+    },
+    {
+      "name": "Căn hộ Duy Trung",
+      "url": "https://trohoalac.com/phong-tro-detail/can-ho-duy-trung-5c47aaaf-eb31-414f-af26-d531ee4d7eee"
+    },
+    {
+      "name": "Chung cư 1 ngủ 1 khách MoonSky Home",
+      "url": "https://trohoalac.com/phong-tro-detail/chung-cu-1-ngu-1-khach-moonsky-home-9489c882-bc8b-40df-b2d4-3a4fb1040e7f"
+    },
+    {
+      "name": "Phương Nam Apartment",
+      "url": "https://trohoalac.com/phong-tro-detail/phuong-nam-apartment-5af29a54-b295-4266-970e-a4dcf31dfd8d"
+    },
+    {
+      "name": "Nhà trọ khu vực Bình Yên mới tinh",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-khu-vuc-binh-yen-moi-tinh-ebba90ab-85c7-4f71-9e72-5c4cd852ccd7"
+    },
+    {
+      "name": "Nhà trọ Minh Tuy",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-minh-tuy-6a806969-0473-4bb6-9060-b5eefd6ccb2d"
+    },
+    {
+      "name": "QQ House",
+      "url": "https://trohoalac.com/phong-tro-detail/qq-house-9c6d6e7a-5719-4033-8c6f-d462f9d3e82f"
+    },
+    {
+      "name": "Long Thanh House",
+      "url": "https://trohoalac.com/phong-tro-detail/long-thanh-house-a452a495-2189-4920-a323-d83925b88540"
+    },
+    {
+      "name": "Chung cư Phenika",
+      "url": "https://trohoalac.com/phong-tro-detail/chung-cu-phenika-213049a8-d2fd-4839-8f42-c3edb5599737"
+    },
+    {
+      "name": "Hoàng Kim House 2",
+      "url": "https://trohoalac.com/phong-tro-detail/hoang-kim-house-2-912fdcab-f64f-496b-b624-8f56a17521d2"
+    },
+    {
+      "name": "2TR8 TẠI TÂN XÃ (BAO TRỌN DỊCH VỤ) 🔥",
+      "url": "https://trohoalac.com/phong-tro-detail/2tr8-tai-tan-xa-bao-tron-dich-vu-90179526-ac3c-46c7-8dca-74a05bede456"
+    },
+    {
+      "name": "[BÌNH YÊN] - CHỈ CÒN 6 PHÒNG CUỐI CÙNG MỚI TINH – FULL TIỆN ÍCH",
+      "url": "https://trohoalac.com/phong-tro-detail/binh-yen-chi-con-6-phong-cuoi-cung-moi-tinh-full-tien-ich-0a53ff66-460c-4037-be80-3db8bd04085f"
+    },
+    {
+      "name": "Chung Cư SkyHome",
+      "url": "https://trohoalac.com/phong-tro-detail/chung-cu-skyhome-0e70c039-4d73-4433-8e6b-ff9baec42dba"
+    },
+    {
+      "name": "Nhà trọ Hồng Nhàn",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-hong-nhan-dd4fc413-ecf0-413f-a1dc-6d1c0c7181e0"
+    },
+    {
+      "name": "Nhà trọ Hoa Vinh",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-hoa-vinh-f436491f-c53f-4337-b59c-9ec968840afc"
+    },
+    {
+      "name": "THÔN 4 THẠCH HÒA",
+      "url": "https://trohoalac.com/phong-tro-detail/thon-4-thach-hoa-c3ecab80-0e8d-4f8a-a35d-9641ee69009c"
+    },
+    {
+      "name": "Trọ Đức Thành Bình Yên",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-uc-thanh-binh-yen-de48cab8-819d-4088-ae7c-feb114bdaca2"
+    },
+    {
+      "name": "My House",
+      "url": "https://trohoalac.com/phong-tro-detail/my-house-54dcd195-ddf0-4df1-8cc9-fc78e00083e5"
+    },
+    {
+      "name": "YoungHouse 14",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-14-b1f23ee8-e323-46dc-89b2-5660853a9df8"
+    },
+    {
+      "name": "CHUNG CƯ PHENIKA",
+      "url": "https://trohoalac.com/phong-tro-detail/chung-cu-phenika-c67f7f3b-259d-447c-9c12-43ca2e0a5e33"
+    },
+    {
+      "name": "Trọ gần Uỷ ban Tân Xã",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-gan-uy-ban-tan-xa-027e1f68-b3c0-4f23-8608-93411458189c"
+    },
+    {
+      "name": "Chung Cư Sun Skyhomes",
+      "url": "https://trohoalac.com/phong-tro-detail/chung-cu-sun-skyhomes-c5be5a62-f0e3-4cd9-b9ea-8e5faa16beae"
+    },
+    {
+      "name": "BIỆT THỰ NGUYÊN CĂN 3PN TẠI HOÀ LẠC",
+      "url": "https://trohoalac.com/phong-tro-detail/biet-thu-nguyen-can-3pn-tai-hoa-lac-d249ee06-76e7-4cbf-b016-2b0024cfaf50"
+    },
+    {
+      "name": "Thái Châu Building",
+      "url": "https://trohoalac.com/phong-tro-detail/thai-chau-building-21de01bd-b973-452d-a21c-246995fbd0b1"
+    },
+    {
+      "name": "YoungHouse 5 - Phòng gác xép",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-5-phong-gac-xep-2db389c7-a9bc-4ae4-95b8-17672dc78f72"
+    },
+    {
+      "name": "Mixue Tân Xã",
+      "url": "https://trohoalac.com/phong-tro-detail/mixue-tan-xa-a47c9ed7-e6d2-4282-9f2d-f71115713f70"
+    },
+    {
+      "name": "🔥 CHỈ 2TR - PHÒNG TRỌ \"NGON - BỔ - RẺ\" SÁT VÁCH ĐHQG & FPT 🔥",
+      "url": "https://trohoalac.com/phong-tro-detail/chi-2tr-phong-tro-ngon-bo-re-sat-vach-hqg-fpt-6f1f747c-83fe-4e68-9a48-a29ac1e67059"
+    },
+    {
+      "name": "YoungHouse 2 - Phòng studio giường đơn",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-2-phong-studio-giuong-on-7fedec9b-eec7-4321-9473-ba19039319c3"
+    },
+    {
+      "name": "Nhà trọ Tiến Tuân",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-tien-tuan-426b76ec-25c2-4e2b-87a5-c58460152056"
+    },
+    {
+      "name": "THÔN 9 TÂN XÃ",
+      "url": "https://trohoalac.com/phong-tro-detail/thon-9-tan-xa-48693860-4ea7-4071-a6e6-3aceebce0373"
+    },
+    {
+      "name": "Thôn 2 Thạch Hòa  PHÒNG FULL ĐỒ - GIÁ \"SINH VIÊN\" - NGAY GẦN ĐHQG & FPT",
+      "url": "https://trohoalac.com/phong-tro-detail/thon-2-thach-hoa-phong-full-o-gia-sinh-vien-ngay-gan-hqg-fpt-86127cd2-0ddb-43ad-9e52-222c08b5422c"
+    },
+    {
+      "name": "Nhà trọ Phúc Hiếu",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-phuc-hieu-7480cc2c-8321-453f-825a-0516b24167a7"
+    },
+    {
+      "name": "Trọ xinh tại Phú Hữu",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-xinh-tai-phu-huu-7bd5564e-94f6-4d51-93ef-d50607e61b79"
+    },
+    {
+      "name": "Aven Apartment",
+      "url": "https://trohoalac.com/phong-tro-detail/aven-apartment-fb4a2d0f-33f3-4d0d-9e80-f8d0564d1cf7"
+    },
+    {
+      "name": "Gia Hung Apartment",
+      "url": "https://trohoalac.com/phong-tro-detail/gia-hung-apartment-22071660-f5ed-4234-82f8-923b7e5f35c6"
+    },
+    {
+      "name": "Trọ sẵn tủ lạnh tại Tân Xã",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-san-tu-lanh-tai-tan-xa-ee4b089a-2275-4234-9bf9-a4f1e174fd5d"
+    },
+    {
+      "name": "Trọ gần Siêu thị Đức Thành",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-gan-sieu-thi-uc-thanh-d209fdc3-0363-4845-8708-da0829a5dd57"
+    },
+    {
+      "name": "TRỌ  BÌNH YÊN",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-binh-yen-92cb582c-1d62-401f-9931-2a5381a80c06"
+    },
+    {
+      "name": "Mark Hostel",
+      "url": "https://trohoalac.com/phong-tro-detail/mark-hostel-48add4ff-8f0a-4e91-bf23-b0bda9dd1b7e"
+    },
+    {
+      "name": "Trọ cô Hường ngay cổng ĐHQG cơ sở Hoà Lạc",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-co-huong-ngay-cong-hqg-co-so-hoa-lac-7a29ec56-cd4a-43c3-ad8e-32556a492bd3"
+    },
+    {
+      "name": "YoungHouse 8",
+      "url": "https://trohoalac.com/phong-tro-detail/younghouse-8-fdda0d77-d1ff-432d-9d71-fbfe69414515"
+    },
+    {
+      "name": "Nhà trọ Thành Thuý",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-thanh-thuy-f5efed87-7aa3-4576-83b0-986ead1f5b06"
+    },
+    {
+      "name": "Trọ Quốc Hương",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-quoc-huong-c3f05948-a9fb-4eeb-ad8d-79982dd7ad4b"
+    },
+    {
+      "name": "Trọ Bảo Anh ( Phú Hữu )",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-bao-anh-phu-huu-e384e24d-576d-46da-bed2-ac76d7f8a932"
+    },
+    {
+      "name": "Nhà trọ Đức Nguyên",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-uc-nguyen-8081ed1c-466a-473e-8f60-5389f464ed11"
+    },
+    {
+      "name": "Thôn 2 Tân Xã",
+      "url": "https://trohoalac.com/phong-tro-detail/thon-2-tan-xa-a159ed8b-e652-478d-afd0-7c07ec237f55"
+    },
+    {
+      "name": "Trọ Phú Hữu sẵn tủ lạnh",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-phu-huu-san-tu-lanh-f91dc14e-ab77-4c85-a31f-43c38b05a32b"
+    },
+    {
+      "name": "Gia Minh Home",
+      "url": "https://trohoalac.com/phong-tro-detail/gia-minh-home-744c60bb-0a67-417e-bc45-9bb5e5e1ba78"
+    },
+    {
+      "name": "Trọ Cô Thìn Kim Bông - Tân Xã",
+      "url": "https://trohoalac.com/phong-tro-detail/tro-co-thin-kim-bong-tan-xa-e0a36f10-d750-467a-b127-c3584993f020"
+    },
+    {
+      "name": "🚀 PHÒNG TRỌ SÁT CỔNG ĐHQG HÒA LẠC – 1 PHÚT ĐI BỘ LÀ TỚI LỚP! 🚀",
+      "url": "https://trohoalac.com/phong-tro-detail/phong-tro-sat-cong-hqg-hoa-lac-1-phut-i-bo-la-toi-lop-ff85668d-bb61-4030-a700-7c71cd17e18e"
+    },
+    {
+      "name": "NHÀ TRỌ SV TẠI HOÀ LẠC. GIÁ 1tr900, VSKK. GẦN ĐH FPT, ĐHQGHN, HVTC KHU CNC HOÀ LẠC",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-sv-tai-hoa-lac-gia-1tr900-vskk-gan-h-fpt-hqghn-hvtc-khu-cnc-hoa-lac-6826b89a-e37c-40ea-87a5-51c487405589"
+    },
+    {
+      "name": "NHÀ TRỌ SINH VIÊN TẠI HOÀ LẠC. Đối diện Cổng sau ĐH FPT và ngay Cổng phụ ĐHQGHN (VNU)",
+      "url": "https://trohoalac.com/phong-tro-detail/nha-tro-sinh-vien-tai-hoa-lac-oi-dien-cong-sau-h-fpt-va-ngay-cong-phu-hqghn-vnu-7855e0a4-d945-4ad2-a9f0-8d9da945af7e"
+    },
+    {
+      "name": "Trung Đức Home",
+      "url": "https://trohoalac.com/phong-tro-detail/trung-uc-home-a059d6df-5687-4b33-8ac0-e413874801c8"
+    }
+  ],
+  "detail_urls": [
+    "https://phongtrohoalac.com/can-ho-chung-cu-phenika-2-phong-ngu-tang-19",
+    "https://phongtrohoalac.com/cho-thue-cua-hang-90m2-tai-sai-son-quoc-oai-vi-tri-thuan-loi",
+    "https://phongtrohoalac.com/cho-thue-nha-cap-4-dt-45m2-o-van-con-hoai-duc",
+    "https://phongtrohoalac.com/cho-thue-nha-gan-dai-hoc-fpt-cach-duoi-15km-nha-tro-ti-khoai",
+    "https://phongtrohoalac.com/cho-thue-nha-gan-dai-hoc-fpt-cach-duoi-1km-nha-tro-hong-anh",
+    "https://phongtrohoalac.com/cho-thue-nha-gan-dai-hoc-fpt-cach-duoi-2km",
+    "https://phongtrohoalac.com/cho-thue-nha-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-nha-chung-to",
+    "https://phongtrohoalac.com/cho-thue-nha-gan-dai-hoc-fpt-cach-duoi-300m-nha-tro-so-410-thon-4-thach-hoa",
+    "https://phongtrohoalac.com/cho-thue-nha-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-hoalaclink",
+    "https://phongtrohoalac.com/cho-thue-nha-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-tuan-yen",
+    "https://phongtrohoalac.com/cho-thue-nha-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-van-thuan",
+    "https://phongtrohoalac.com/cho-thue-nha-gan-dai-hoc-fpt-cach-duoi-4km-nha-tro-tuyen-da",
+    "https://phongtrohoalac.com/cho-thue-nha-gan-truong-fpt-cach-duoi-3km-nha-tro-kim-lien",
+    "https://phongtrohoalac.com/cho-thue-nha-nguyen-can-co-dong-son-tay-nha-cho-thue-son-tay",
+    "https://phongtrohoalac.com/cho-thue-nha-nguyen-can-dt-350m2",
+    "https://phongtrohoalac.com/cho-thue-nha-nguyen-can-nha-co-sen-ha-bang",
+    "https://phongtrohoalac.com/cho-thue-nha-nguyen-can-nha-nguyen-can-chung-dong-ha-bang",
+    "https://phongtrohoalac.com/cho-thue-nha-tro-thach-that",
+    "https://phongtrohoalac.com/cho-thue-nha-tro-thach-that-nha-tro-anh-toan",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-gan-cho-hoa-lac-nha-tro-tuan-viet",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-co-bang",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-co-truong",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-hoa-lac",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-hoa-lac-thach-that-gan-cong-dai-hoc-quoc-gia-ha-noi",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-khu-vuc-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-khu-vuc-quoc-oai-1",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-khu-vuc-quoc-oai-thach-that",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quanh-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-1",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-2",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-3",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-chi-ngan-cho-thue-mat-bang-nha-cap-4",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-mat-bang-kinh-doanh-dt-30m2-o-hoang-xa-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-mat-bang-nha-2-tang-duong-chua-thay",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-3-tang-dt-80m2-o-sai-son-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-3-tang-o-dong-but-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-3-tang-o-thon-7-phu-cat",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-60m2-o-yen-son-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-cap-4-co-xuan",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-cap-4-o-thach-than-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-co-thuan-o-ngoc-my-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-dt-106m2-duong-ngoc-than-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-dt-108m2-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-dt-160m2-o-sai-son-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-dt-220m2-o-thach-than-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-dt-278m2-thon-hoa-voi-tt-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-dt-40m2-o-phuong-cach-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-dt-40m2-o-sai-son-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-dt100m2-o-ngoc-liep-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-lien-ke-o-hung-dao-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-o-dong-yen-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-cho-thue-nha-nguyen-can-thon-hoa-voi-tt-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-ha-noi",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-ha-noi-nha-tro-anh-duong",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-nguyen-can-2-tang-tai-liep-mai-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-anh-doan",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-anh-huong",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-anh-nam",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-anh-phong",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-anh-quyet",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-anh-thang",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-anh-thang-1",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-anh-thiep",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-anh-trung",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-anh-tuan",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-cao-thanh",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-chi-duyen",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-chi-hang",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-chi-hoa",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-chi-hoa-1",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-chi-nga",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-chi-nguyet",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-chu-cuong",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-chu-khoa",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-chu-tam",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-co-bay",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-co-nga",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-co-thuy",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-danh-chuyen",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-diem-nga",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-doan-thang",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-ha-phi",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-hung-duc",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-huy-han",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-nga-minh",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-nguyen-lien",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-nguyen-tam",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-nguyen-trung",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-o-dong-but-ngoc-liep",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-o-ngoc-my-quoc-oai",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-ong-ba-thang-sinh",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-ong-huy",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-ong-ngoc",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-phuong-ha",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-sinh-luong",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-thu-huong",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-thu-huyen",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-thu-khoa",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-thu-uyen",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-thuy-dung",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-thuyet-huong",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-tien-anh",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-toan-yen",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-tuan-ngoc",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-quoc-oai-nha-tro-vuong-thuy",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-thach-that-nha-tro-anh-bon",
+    "https://phongtrohoalac.com/cho-thue-phong-tro-thach-that-tim-nha-tro-o-thach-that",
+    "https://phongtrohoalac.com/chung-cu-cnc-hoa-lac-can-ho-chung-cu-phenika-2-phong-ngu",
+    "https://phongtrohoalac.com/chung-cu-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-chung-cu-mini-urhome",
+    "https://phongtrohoalac.com/chung-cu-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-1km-chung-cu-skyhomes",
+    "https://phongtrohoalac.com/chung-cu-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-chung-cu-mini-manh-tuyen",
+    "https://phongtrohoalac.com/chung-cu-gan-truong-dai-hoc-fpt-ha-noi-can-ho-chung-cu-phenika-2-phong-ngu",
+    "https://phongtrohoalac.com/chung-cu-gan-truong-dai-hoc-fpt-ha-noi-chung-cu-phenikaa-2-phong-ngu-tang-5-vi-tri-dep",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-fpt-cach-duoi-25km-nha-tro-sv-home",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-green-home-1",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-fpt-cach-duoi-3km-whitehouse-apartment",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-fpt-ha-noi-cach-1km-misaki-home",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-chung-cu-mini-cao-cap-luxuzy-building-phuong-linh",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-chung-cu-mini-hola-city",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-chung-cu-mini-my-house",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-mark-apartment",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-fpt-ha-noi-chung-cu-mini-dha",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-fpt-nha-tro-young-house",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-chung-cu-mini-th",
+    "https://phongtrohoalac.com/chung-cu-mini-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-600m-nha-tro-hoa-lac-aparment",
+    "https://phongtrohoalac.com/chung-cu-mini-hoa-lac-chung-cu-mini-anh-trung",
+    "https://phongtrohoalac.com/chung-cu-mini-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-35km-nha-tro-luxury-living",
+    "https://phongtrohoalac.com/chung-cu-mini-hoa-lac-phong-tro-khu-vuc-tan-xa-thach-that-ha-noi-suha-house",
+    "https://phongtrohoalac.com/fu-hoa-lac-cho-thue-mat-bang-kinh-doanh-dt-130m2-tren-mat-duong-420",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-anh-viet",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-ba-xong",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-chi-xuan",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-chu-dac",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2-km-nha-tro-ba-khanh",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2-km-nha-tro-co-nhi",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2-km-nha-tro-co-thanh",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2-km-nha-tro-goc-ha-noi",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3-km-nha-tro-co-xuyen",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-chu-bon",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-dung-ha",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-gan-dai-hoc-fpt-ha-noi-nha-tro-kim-dung",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-gan-dai-hoc-fpt-ha-noi-nha-tro-nguyen-dung",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-toco",
+    "https://phongtrohoalac.com/fu-hoa-lac-nha-tro-zin-house",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-15km-nha-tro-duong-hue",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-16km-ky-tuc-xa-t-linh",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-1km-chung-cu-mini-68",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-1km-phong-tro-phuong-quynh",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-26km-nha-tro-hai-ha",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-duc-truong",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-ong-chuy",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-tam-thao",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-trong-tuan",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-nguyen-can-thon-3-ha-bang-thach-that-ha-noi",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-ba-lien",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-hola-gates",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-tan-ngan",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-tc-luxury-dorm",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-thu-phuong",
+    "https://phongtrohoalac.com/fu-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-nha-tro-nguyen-loan",
+    "https://phongtrohoalac.com/fu-hoa-lac-tan-xa-lakeview",
+    "https://phongtrohoalac.com/fu-hoa-lac-tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-thanh-nam-2",
+    "https://phongtrohoalac.com/hoa-lac-apartment-phong-tro-khu-vuc-tan-xa-thach-that-ha-noi-nha-tro-long-hoi",
+    "https://phongtrohoalac.com/httpsmapsappgoogly6ngmttjvs1nvw1n7",
+    "https://phongtrohoalac.com/nha-nghi-gan-dai-hoc-fpt-ha-noi-cach-duoi-15km-nha-tro-hai-nhung",
+    "https://phongtrohoalac.com/nha-nghi-gan-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-co-hao",
+    "https://phongtrohoalac.com/nha-nghi-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-chung-cu-mini-greenbay-house",
+    "https://phongtrohoalac.com/nha-tro-chuong-my-cho-thue-nha-nguyen-can-gan-truong-sy-quan-dac-cong",
+    "https://phongtrohoalac.com/nha-tro-chuong-my-nha-tro-ba-be-gan-truong-dai-hoc-lam-nghiep",
+    "https://phongtrohoalac.com/nha-tro-chuong-my-nha-tro-chi-hai-ninh",
+    "https://phongtrohoalac.com/nha-tro-chuong-my-nha-tro-chi-phuong",
+    "https://phongtrohoalac.com/nha-tro-duong-452-thon-linh-son-binh-yen-thach-that",
+    "https://phongtrohoalac.com/nha-tro-fpt-cach-2km-chung-cu-mini-new-house",
+    "https://phongtrohoalac.com/nha-tro-fpt-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-bithouse",
+    "https://phongtrohoalac.com/nha-tro-fpt-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-ktx-ong-ba",
+    "https://phongtrohoalac.com/nha-tro-fpt-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-tuan-hung",
+    "https://phongtrohoalac.com/nha-tro-fpt-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-phong-tro-nguyen-viet",
+    "https://phongtrohoalac.com/nha-tro-fpt-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-thom-thao",
+    "https://phongtrohoalac.com/nha-tro-fpt-phong-tro-gan-dai-hoc-quoc-gia-hoa-lac-ha-noi-cach-duoi-1km-nha-tro-minh-phuong",
+    "https://phongtrohoalac.com/nha-tro-gan-chung-cu-phenikaa",
+    "https://phongtrohoalac.com/nha-tro-gan-chung-cu-phenikaa-nha-tro-chi-trinh",
+    "https://phongtrohoalac.com/nha-tro-gan-chung-cu-phenikaa-thach-that-nha-tro-chi-thu",
+    "https://phongtrohoalac.com/nha-tro-gan-chung-cu-phenikaa-thach-that-nha-tro-minh-huong",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-bao-khang",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-chu-huu",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-chu-luong",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-co-nga",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-co-phuong-thach-hoa",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-co-tao-tuoi",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-le-an",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-minh-khoi",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-nam-cuong",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-ong-ba-nam-lua",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-quan-huy",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-thao-nguyen",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-tri-thom",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-tu-hang",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-tuyen-phu",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-uoc-thanh",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-2km-nha-tro-viet-nga",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-3km-can-ho-cho-thue-mrtruong",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-anh-hau",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-anh-vinh",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-duc-hieu",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-duy-tam",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-huong-que",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-minh-tuyen",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-phong-van",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-quy-nhung",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-thu-hien",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-van-quang",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-cach-duoi-4km-nha-tro-luong-ngan",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-2km-nha-tro-an-giang",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-duc-nguyen",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-hung-hien",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-25km-nha-tro-trong-khong",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-a-son",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-bac-thinh",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-black-rose-house",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-chu-luyen",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-phong-thu",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-phu-hung",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-thanh-binh",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-toan-tuoi",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-an-phat",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-duy-tan",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-khanh-va-ly",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-ong-dang",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-thai-tuyet",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-thanh-thao",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-500m-nha-tro-hoa-dong",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-chi-2km-la-den-truong",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-nha-tro-masteri-home",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-ha-noi-nha-tro-toi-20",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-nha-tro-khai-van",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-fpt-thue-phong-tro-gan-truong-fpt-cach-duoi-3km-nha-tro-co-toan",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-phuong-nam",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km-1",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km-nha-tro-bee-house",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km-nha-tro-chu-binh-thach-hoa",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km-nha-tro-sv2025",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-1",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-1-km-nha-tro-co-ha",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-1km",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-1km-nha-tro-co-dung",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-1km-nha-tro-khanh-hoa",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-1km-nha-tro-misa-house",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-1km-nha-tro-phuong-tien-xuan",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-2",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-ba-lan",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-cay-phuong",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-chu-giat",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-chu-tai",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-dung-thuy",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-nhat-ha",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-phung-lam",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-tam-dao",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-ty-ha",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2kmm-nha-tro-co-kim",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-3km",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-3km-1",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-3km-nha-nghi-tro-chung-dong",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-3km-nha-tro-giao-tiep",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-3km-nha-tro-hong-nhu",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-3km-nha-tro-ong-nam",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-3km-nha-tro-thu-hang",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-400m-nha-tro-tuan-tu",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-500m-nha-tro-co-van",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-500m-nha-tro-cuong-luyen",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-600m",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-600m-nha-tro-binh-an-o-thach-hoa",
+    "https://phongtrohoalac.com/nha-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-600m-nha-tro-co-men-646",
+    "https://phongtrohoalac.com/nha-tro-gan-fpt-cach-duoi-2km-nha-tro-co-hoa",
+    "https://phongtrohoalac.com/nha-tro-gan-fpt-cho-thue-phong-tro-gan-dai-hoc-fpt-nha-tro-hung-hoa",
+    "https://phongtrohoalac.com/nha-tro-gan-khu-cong-nghe-cao-nha-tro-dat-an",
+    "https://phongtrohoalac.com/nha-tro-gan-khu-cong-nghe-cao-phong-tro-gan-khu-cong-nghe-cao",
+    "https://phongtrohoalac.com/nha-tro-gan-khu-cong-nghiep-cach-duoi-4km",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-2",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-1km-ktx-t-linh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-hue-thich",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-thai-dung",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-anh-linh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-chi-trang",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-chu-vao",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-co-ha",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-doanh-chinh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-hoang-anh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-long-thanh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-lu-chanh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-my-home",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-nguyen-khoi-thach-hoa",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-nhat-uyen",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-thanh-lang",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-34km-nha-tro-nhat-anh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-bis-homestay",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-doi-sim",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-v-vlillage",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-van-tan",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-toa-nha-minh-cong-building",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-4km-nha-tro-ming-home",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-nha-tro-anh-ba",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-ha-noi-nha-tro-long-hong",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-fpt-nha-tro-duc-vuong",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-quoc-gia-ha-noi",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-quoc-gia-ha-noi-cach-duoi-17km-nha-tro-minh-anh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-thien-long",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-25km-nha-tro-tien-diep-2",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-1km",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-1km-nha-tro-bac-khuong",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-1km-nha-tro-go-home",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-1km-nha-tro-ha-minh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-mai-linh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-bac-truong",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-ben-vung",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-can-thuy",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-chi-thu-phuong",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-chu-ba",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-chu-manh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-diem-quynh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-gohome",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-hoang-ha",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-huong-duong",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-khanh-nam",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-lien-giang",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-minh-phat",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-thiet-thao",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-nha-tro-xanh-la-huong-anh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-2km-phuong-nam-apartment",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-3km",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-3km-2",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-3km-nha-tro-anh-dung",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-3km-nha-tro-chi-tuyet",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-3km-nha-tro-chu-binh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-3km-nha-tro-duc-thanh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-3km-nha-tro-minh-duc",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-3km-nha-tro-minh-nhi",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-3km-nha-tro-minh-quan",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-3km-nha-tro-thuy-chien",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-4km",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-4km-nha-tro-duc-minh",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-4km-nha-tro-thanh-chau",
+    "https://phongtrohoalac.com/nha-tro-gan-truong-fpt-cach-duoi-km-nha-tro-ong-hoa",
+    "https://phongtrohoalac.com/nha-tro-hoa-lac-nha-tro-gan-truong-fpt-cach-duoi-1km-nha-tro-hoa-anh-dao",
+    "https://phongtrohoalac.com/nha-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-18km-nha-tro-minh-khang",
+    "https://phongtrohoalac.com/nha-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-phuc-hau",
+    "https://phongtrohoalac.com/nha-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-toi-lam",
+    "https://phongtrohoalac.com/nha-tro-hoa-lac-phong-tro-gan-dai-hoc-quoc-gia-hoa-lac-ha-noi-cach-duoi-600m-nha-tro-tan-nguyet",
+    "https://phongtrohoalac.com/nha-tro-hoa-lac-phong-tro-khu-vuc-tan-xa-thach-that-ha-noi-tro-ba-tiu-real",
+    "https://phongtrohoalac.com/nha-tro-khu-cong-nghe-cao-cho-thue-nha-nguyen-can-thon-4-thach-hoa",
+    "https://phongtrohoalac.com/nha-tro-khu-cong-nghe-cao-nha-tro-hoang-linh",
+    "https://phongtrohoalac.com/nha-tro-khu-cong-nghe-cao-phong-tro-gan-dai-hoc-quoc-gia-hoa-lac-ha-noi-cach-duoi-1km-nha-tro-hoa-lac-xanh",
+    "https://phongtrohoalac.com/nha-tro-khu-cong-nghiep-thach-that-cho-thue-can-chung-cu-bamboo-tang-6",
+    "https://phongtrohoalac.com/nha-tro-khu-cong-nghiep-thach-that-chung-cu-bamboo",
+    "https://phongtrohoalac.com/nha-tro-khu-cong-nghiep-thach-that-nha-tro-anh-duy",
+    "https://phongtrohoalac.com/nha-tro-khu-cong-nghiep-thach-that-nha-tro-co-the",
+    "https://phongtrohoalac.com/nha-tro-khu-cong-nghiep-thach-that-nha-tro-nguyen-hop",
+    "https://phongtrohoalac.com/nha-tro-thach-that-1",
+    "https://phongtrohoalac.com/nha-tro-thach-that-cach-duoi-4km-nha-tro-chi-manh",
+    "https://phongtrohoalac.com/nha-tro-thach-that-cho-thue-mat-bang-dt-115m2-gan-cau-dong-mo",
+    "https://phongtrohoalac.com/nha-tro-thach-that-cho-thue-mat-bang-kinh-doanh-dt-70m2-o-phuc-tien-binh-yen",
+    "https://phongtrohoalac.com/nha-tro-thach-that-cho-thue-nha-nguyen-can-2pn-o-canh-chu-binh-yen",
+    "https://phongtrohoalac.com/nha-tro-thach-that-cho-thue-nha-nguyen-can-dt-80m2-o-kim-quan-thach-that",
+    "https://phongtrohoalac.com/nha-tro-thach-that-cho-thue-nha-nguyen-can-dt63m2-o-long-phu-thach-that",
+    "https://phongtrohoalac.com/nha-tro-thach-that-cho-thue-nha-nguyen-can-gia-tot-tai-thon-canh-chu-ha-noi",
+    "https://phongtrohoalac.com/nha-tro-thach-that-cho-thue-nha-nguyen-can-o-kim-quan-thach-that",
+    "https://phongtrohoalac.com/nha-tro-thach-that-cho-thue-nha-nguyen-can-quy-hung",
+    "https://phongtrohoalac.com/nha-tro-thach-that-cho-thue-nha-xuong-dt-300m2-o-phung-xa",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-nghi-tro-phuong-dong",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-nguyen-can-anh-son",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-1",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-an-nhien-tan-xa",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-anh-duc",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-anh-dung",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-anh-hai",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-anh-nguyen",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-anh-sau",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-anh-thien",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-anh-truong",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-ba-men",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-bac-suu",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-binh-dan-anh-hung",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-chi-huong",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-chi-kieu",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-chi-phuong",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-chi-tham",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-chi-yen",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-chu-doanh",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-chu-loi",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-chu-ngoc",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-chu-thang",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-co-dao",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-co-hoa-tan-xa",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-co-hue",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-co-phuong",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-co-sau-tan-xa",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-co-tran-huong",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-cuc-thu",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-duc-trang",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-dung-lan",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-duoc-hoan",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-gan-dai-hoc-viet-hung",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-green-house",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-ha-lang",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-hoa-moc",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-hong-lich",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-hung-so",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-kieu-ha",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-le-luyen",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-luong-thao",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-mai-tan",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-nga-hoa",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-nga-tuyen",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-nguyen-hien",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-nguyet-dien-vien",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-phung-anh",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-phuong-thao",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-tham-hue",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-thien-giang",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-thuy-huong",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-van-minh",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-van-tuyen",
+    "https://phongtrohoalac.com/nha-tro-thach-that-nha-tro-xuan-can",
+    "https://phongtrohoalac.com/nha-tro-thach-that-phong-tro-gan-dai-hoc-quoc-gia-hoa-lac-ha-noi-cach-duoi-15km-nha-tro-van-ngo",
+    "https://phongtrohoalac.com/nha-tro-thach-that-phong-tro-khu-vuc-tan-xa-thach-that-ha-noi-nha-tro-duc-thuong",
+    "https://phongtrohoalac.com/nha-tro-thach-that-phong-tro-khu-vuc-tan-xa-thach-that-ha-noi-nha-tro-eco-hotstel",
+    "https://phongtrohoalac.com/nha-tro-thach-that-phong-tro-khu-vuc-tan-xa-thach-that-ha-noi-nha-tro-thai-tuyet-2",
+    "https://phongtrohoalac.com/nha-tro-thach-that-thong-tin-nha-tro-dung-phuong",
+    "https://phongtrohoalac.com/phng-tro-dai-hoc-quoc-gia-ha-noi",
+    "https://phongtrohoalac.com/phng-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km",
+    "https://phongtrohoalac.com/phng-tro-khu-cong-nghe-cao-cach-duoi-2km-nha-tro-thon-3-ha-bang",
+    "https://phongtrohoalac.com/phong-tro-can-biet-thu-nha-vuon-minh-chau",
+    "https://phongtrohoalac.com/phong-tro-dai-hoc-quoc-gia-cach-1km-nha-tro-hanh-hoa",
+    "https://phongtrohoalac.com/phong-tro-dai-hoc-quoc-gia-cach-500m",
+    "https://phongtrohoalac.com/phong-tro-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-khu-tdc-bac-phu-cat",
+    "https://phongtrohoalac.com/phong-tro-dai-hoc-quoc-gia-cach-duoi-200m-nha-tro-lala-linh",
+    "https://phongtrohoalac.com/phong-tro-dai-hoc-quoc-gia-cach-duoi-2km-nha-tro-hola-sunrise-home",
+    "https://phongtrohoalac.com/phong-tro-dai-hoc-quoc-gia-ha-noi-cach-19km-nha-tro-duong-linh",
+    "https://phongtrohoalac.com/phong-tro-dai-hoc-quoc-gia-ha-noi-cach-duoi-1km-nha-tro-hoang-nam-1",
+    "https://phongtrohoalac.com/phong-tro-dai-hoc-quoc-gia-ha-noi-cach-duoi-800m-phong-tro-pro",
+    "https://phongtrohoalac.com/phong-tro-dai-hoc-quoc-gia-ha-noi-duoi-13km-nha-tro-ans-house",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-15km-nha-tro-bac-hue",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-1km",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-1km-nha-tro-chu-dung",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-1km-nha-tro-chu-luc",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-1km-nha-tro-co-chien-thach-hoa",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-1km-nha-tro-minh-thuong",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-1km-nha-tro-thu-nguyet",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-1km-nha-tro-trg-building",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-1km-nha-tro-yen-quang",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-ba-luu",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-be-be",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-chi-hanh",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-chu-cung",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-chu-hoan",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-chu-nam",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-chu-tung",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-co-phuong",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-cuong-le",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-goc-mit",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-happy-home",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-hoa-dung-2",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-lan-anh",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-minh-tuy",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-ngoc-linh",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-nguyen-thi-quyen",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-quang-huy",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-thanh-dat",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-thanh-oanh",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-thu-thuy",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-trang-uyen",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-viet-dung",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-2km-nha-tro-ym-house",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-3km",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-3km-1",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-3km-2",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-3km-3",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-3km-nha-tro-bac-nam",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-3km-nha-tro-co-luyen",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-3km-nha-tro-hoc-nhan",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-3km-nha-tro-kien-cuong",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-3km-nha-tro-mulan",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-3km-nha-tro-ngan-an",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-3km-nha-tro-thuy-duong",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-3km-nha-tro-tram-anh",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-cach-duoi-600m-ktx-ong-ba",
+    "https://phongtrohoalac.com/phong-tro-fpt-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-1km",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-bac-hang",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-co-tam",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-long-khanh",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-1km-smallhouse-tro-xanh-la",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-anh-linh-2",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-han-hau",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-hoang-nhu",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-phuong-duy",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-sun-skyhomes",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-2",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-hoai-nam",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-hong-duy",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-kim-cuc",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-wisdom-home",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cho-thue-nha-nguyen-can-4-tang-dt-san-112m2",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-cho-thue-nha-nguyen-can-ket-hop-lam-nha-o",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-fpt-ha-noi-nha-tro-chu-thuan",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-12km-nha-tro-happy-house",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-2km-nha-tro-diamond",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-100m-nha-tro-duc-tuan",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-an-h",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-bac-hoan",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-balanha",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-bao-anh",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-cam-house",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-chu-hoan",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-gia-minh",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-ngoc-long",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-phu-hung",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-thanh-nhan",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-1km-nha-tro-thu-trang",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km-nha-tro-anh-cuong",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km-nha-tro-anh-cuong-809",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km-nha-tro-bac-sinh",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km-nha-tro-chien-su-1",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km-nha-tro-chu-nam",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km-nha-tro-duc-thien",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-2km-nha-tro-quang-minh",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-300m-nha-tro-chu-hanh",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-3km-nha-tro-khanh-hoa",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-500m-nha-tro-binh-dung",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-500m-nha-tro-thien-an",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-500m-nha-tro-thuc-thuy",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-600m",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cach-duoi-600m-chung-cu-mini-hoa-lac-apartment",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-cho-thue-chung-cu-phenika-1-phong-ngu-anh-viet",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-hoa-lac-ha-noi-cach-duoi-100m-nha-tro-co-luyen-thach-hoa",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-hoa-lac-ha-noi-cach-duoi-1km-nha-tro-chi-hai",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-hoa-lac-ha-noi-cach-duoi-1km-nha-tro-dong-que",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-hoa-lac-ha-noi-cach-duoi-500m-nha-tro-bac-tang",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-hoa-lac-ha-noi-cach-duoi-500m-nha-tro-tuyen-hoa",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-hoa-lac-ha-noi-cach-duoi-600m-nha-tro-ba-riu",
+    "https://phongtrohoalac.com/phong-tro-gan-dai-hoc-quoc-gia-nha-tro-co-thao",
+    "https://phongtrohoalac.com/phong-tro-gan-fpt-thue-nha-gan-truong-dai-hoc-fpt-nha-tro-duc-tien",
+    "https://phongtrohoalac.com/phong-tro-gan-khu-cong-nghe-cao-cach-duoi-2km-nha-tro-mai-hanh",
+    "https://phongtrohoalac.com/phong-tro-gan-khu-cong-nghe-cao-cach-duoi-3km-nha-tro-tien-dung",
+    "https://phongtrohoalac.com/phong-tro-gan-khu-cong-nghe-cao-nha-tro-bac-chuc-tam",
+    "https://phongtrohoalac.com/phong-tro-gan-khu-cong-nghe-cao-nha-tro-bac-thuy",
+    "https://phongtrohoalac.com/phong-tro-gan-khu-cong-nghe-cao-nha-tro-hoa-lac-dormitel",
+    "https://phongtrohoalac.com/phong-tro-gan-khu-cong-nghe-cao-nha-tro-huyen-thoai",
+    "https://phongtrohoalac.com/phong-tro-gan-khu-cong-nghe-cao-nha-tro-tien-tuan",
+    "https://phongtrohoalac.com/phong-tro-gan-khu-cong-nghiep-thach-that-quoc-oai",
+    "https://phongtrohoalac.com/phong-tro-gan-khu-cong-nghiep-thach-that-quoc-oai-cho-thue-mat-bang-kinh-doanh-chi-chung",
+    "https://phongtrohoalac.com/phong-tro-gan-khu-cong-nghiep-thach-that-quoc-oai-cho-thue-nha-nguyen-can-o-liep-tuyet-quoc-oai",
+    "https://phongtrohoalac.com/phong-tro-gan-khu-cong-nghiep-thach-that-quoc-oai-cho-thue-nha-nguyen-can-o-sai-son-quoc-oai-dt-40m2",
+    "https://phongtrohoalac.com/phong-tro-gan-truong-fpt-cach-duoi-2km",
+    "https://phongtrohoalac.com/phong-tro-gan-truong-fpt-nha-tro-hoa-lac-xanh",
+    "https://phongtrohoalac.com/phong-tro-gan-truong-si-quan-chinh-tri-cach-duoi-2km-nha-tro-minh-chau",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cach-duoi-1km-nha-tro-co-mai",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cach-duoi-2km-nha-tro-eouropa",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cach-duoi-2km-nha-tro-hieu-nghia",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cach-duoi-2km-nha-tro-thuan-hoai",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cach-duoi-3km-nha-tro-bac-minh",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cach-duoi-500m-nha-tro-tam-an",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cach-duoi-600m-nha-tro-dinh-vinh",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cho-thue-cua-hang-dt-70m2-o-thach-hoa",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cho-thue-nha-nguyen-can-biet-thu-gan-cho-hoa-lac",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cho-thue-nha-nguyen-can-chi-minh-tuyen",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cho-thue-nha-nguyen-can-dt-160m2-o-thach-hoa",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cho-thue-nha-nguyen-can-dt-32m2-o-thach-hoa",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cho-thue-nha-nguyen-can-o-hoa-lac-dt-120m2",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-cho-thue-nha-nguyen-can-van-loi-binh-yen",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-anh-anh",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-ba-loan",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-ba-luan",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-bac-xung",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-co-bong",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-co-hien",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-co-hoan",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-co-phuong-binh-yen",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-co-quyen",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-dung-bac",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-hoang-thu",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-hue-minh",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-ly-long",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-quoc-dung",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-quynh-thu",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-sinh-vien",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-tho-hong",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-thuy-duong-thach-hoa",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-tien-luan",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-tro",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-nha-tro-tuyet-nhung",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-24km-nha-tro-ohio-house",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-34km-nha-tro-anh-tu",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-hai-dang-1",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-phong-tro-gan-dai-hoc-quoc-gia-hoa-lac-ha-noi-cach-duoi-2km-nha-tro-sunhome",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-phong-tro-khu-vuc-binh-yen-thach-that-ha-noi",
+    "https://phongtrohoalac.com/phong-tro-hoa-lac-toa-nha-mia-house",
+    "https://phongtrohoalac.com/phong-tro-hoai-duc-ha-noi-cho-thue-nha-cap-4-dt-41m2-o-van-con-hoai-duc",
+    "https://phongtrohoalac.com/phong-tro-hoai-duc-ha-noi-nha-tro-anh-minh",
+    "https://phongtrohoalac.com/phong-tro-hoai-duc-ha-noi-nha-tro-chi-huong",
+    "https://phongtrohoalac.com/phong-tro-hoai-duc-ha-noi-nha-tro-chi-trang",
+    "https://phongtrohoalac.com/phong-tro-hoai-duc-ha-noi-nha-tro-luyen-thanh",
+    "https://phongtrohoalac.com/phong-tro-hoai-duc-ha-noi-nha-tro-moonsun",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-cach-duoi-1km-nha-tro-duy-minh",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-cach-duoi-2km-nha-tro-chu-son",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-can-ho-chung-cu-phenika-2-phong-ngu-tang-11",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-cho-thue-nha-nguyen-can-anh-tam",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-hoa-lac",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-nha-tro-anh-truong",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-nha-tro-chi-mai",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-nha-tro-chi-quynh",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-nha-tro-huan-phuong",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-nha-tro-nhu-hoai",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-nha-tro-so-22-duong-vuc-giang",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-nha-tro-tan-dau",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghe-cao-nha-tro-xuan-trung",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghiep-thach-that-nha-tro-do-hong",
+    "https://phongtrohoalac.com/phong-tro-khu-cong-nghiep-thach-that-quoc-oai",
+    "https://phongtrohoalac.com/phong-tro-khu-vuc-hoa-lac-nha-tro-bac-khoai-tam",
+    "https://phongtrohoalac.com/phong-tro-khu-vuc-hoa-lac-nha-tro-bebe-phu-huu",
+    "https://phongtrohoalac.com/phong-tro-khu-vuc-hoa-lac-nha-tro-chi-thien",
+    "https://phongtrohoalac.com/phong-tro-khu-vuc-hoa-lac-nha-tro-co-minh",
+    "https://phongtrohoalac.com/phong-tro-khu-vuc-hoa-lac-nha-tro-gia-bao",
+    "https://phongtrohoalac.com/phong-tro-khu-vuc-hoa-lac-nha-tro-phong-thu",
+    "https://phongtrohoalac.com/phong-tro-khu-vuc-hoa-lac-nha-tro-quynh-hai",
+    "https://phongtrohoalac.com/phong-tro-khu-vuc-hoa-lac-nha-tro-tham-duong",
+    "https://phongtrohoalac.com/phong-tro-khu-vuc-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-500m-nha-tro-bac-khoa",
+    "https://phongtrohoalac.com/phong-tro-khu-vuc-hoa-lac-phong-tro-gan-dai-hoc-quoc-gia-hoa-lac-ha-noi-cach-duoi-17km-nha-tro-khoa-phuong",
+    "https://phongtrohoalac.com/phong-tro-khu-vuc-hoa-lac-phong-tro-khu-vuc-tan-xa-thach-that-ha-noi-nha-tro-quoc-huong",
+    "https://phongtrohoalac.com/phong-tro-o-ha-noi-cho-thue-nha-nghi-xa-son-dong",
+    "https://phongtrohoalac.com/phong-tro-o-ha-noi-cho-thue-phong-tro-p-xuan-khanh-son-tay",
+    "https://phongtrohoalac.com/phong-tro-sinh-vien-fpt-hoa-lac-cach-duoi-1km",
+    "https://phongtrohoalac.com/phong-tro-sinh-vien-fpt-hoa-lac-cach-duoi-3km",
+    "https://phongtrohoalac.com/phong-tro-sinh-vien-fpt-hoa-lac-cach-duoi-3km-nha-tro-duc-vinh-tan-xa",
+    "https://phongtrohoalac.com/thue-chung-cu-gan-dai-hoc-quoc-gia-cach-duoi-2km-chung-cu-the-luxury",
+    "https://phongtrohoalac.com/thue-chung-cu-gan-dai-hoc-quoc-gia-chung-cu-mini-luna-house",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-1-km-nha-tro-tuan-huyen",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-1km",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-1km-cho-thue-nha-nguyen-can-cap-4-dt-30m2-o-thon-4-thach-hoa",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-cho-thue-nha-nguyen-can-dt-60m2-o-linh-son-binh-yen",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-nha-tro-anh-dinh",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-nha-tro-anh-thuan",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-nha-tro-anh-xuan-nam",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-nha-tro-bat-oanh",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-nha-tro-chi-lien",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-nha-tro-chi-thuy",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-nha-tro-co-huong-thon-3-thach-hoa",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-nha-tro-huyen-trang",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-nha-tro-nam-an-buiding",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-nha-tro-ngoc-my-house",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-nha-tro-sunshine",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-2km-nha-tro-thu-thuy-tan-xa",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-3km-nha-tro-binh-minh",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-3km-nha-tro-chi-ha",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-3km-nha-tro-co-hien",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-3km-nha-tro-lan-anh-tan-xa",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cach-duoi-3km-nha-tro-thanh-hien",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cho-thue-can-ho-2-phong-ngu-o-thach-hoa",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cho-thue-nha-nguyen-can-anh-hung",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-cho-thue-nha-nguyen-can-dt-300m2-o-thach-hoa",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-co-luyen-cho-thue-nha-o-va-kinh-doanh-o-binh-yen",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-nha-tro-anh-lam",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-nha-tro-bac-binh",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-nha-tro-nhu-xuan",
+    "https://phongtrohoalac.com/thue-nha-gan-truong-dai-hoc-fpt-nha-tro-so-320-thon-4-thach-hoa",
+    "https://phongtrohoalac.com/thue-nha-hoa-lac-cho-thue-nha-cap-4-rong-30m2-gan-nga-4-hoa-lac",
+    "https://phongtrohoalac.com/thue-nha-hoa-lac-gan-dai-hoc-quoc-gia-ha-noi",
+    "https://phongtrohoalac.com/thue-nha-hoa-lac-nha-tro-anh-vui",
+    "https://phongtrohoalac.com/thue-nha-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km",
+    "https://phongtrohoalac.com/thue-nha-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-sinh-vien-fpt1",
+    "https://phongtrohoalac.com/thue-nha-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-tuyen-huyen",
+    "https://phongtrohoalac.com/thue-nha-hoa-lac-phong-tro-khu-vuc-tan-xa-thach-that-ha-noi",
+    "https://phongtrohoalac.com/thue-nha-hoa-lac-phong-tro-khu-vuc-tan-xa-thach-that-ha-noi-phong-tro-homeme",
+    "https://phongtrohoalac.com/thue-nha-nguyen-can-gan-cho-hoa-lac-cach-duoi-2km",
+    "https://phongtrohoalac.com/thue-nha-nguyen-can-gan-cho-hoa-lac-nha-nguyen-can-thon-yen-my-binh-yen-thach-that",
+    "https://phongtrohoalac.com/thue-nha-nguyen-can-gan-cho-hoa-lac-nha-tro-tuan-nga",
+    "https://phongtrohoalac.com/thue-nha-nguyen-can-gan-cho-hoa-lac-phong-tro-khu-vuc-ha-bang-thach-that-ha-noi-nha-tro-an-sinh-68",
+    "https://phongtrohoalac.com/thue-nha-tro-dai-hoc-fpt-cach-duoi-3km-nha-tro-chi-quynh",
+    "https://phongtrohoalac.com/thue-nha-tro-dai-hoc-fpt-cho-thue-nha-nguyen-can-dt-150m2-o-binh-yen",
+    "https://phongtrohoalac.com/thue-nha-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi",
+    "https://phongtrohoalac.com/thue-nha-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-34km-nha-tro-ong-tien",
+    "https://phongtrohoalac.com/thue-nha-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-hoang-quan",
+    "https://phongtrohoalac.com/thue-nha-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-ngoc-anh",
+    "https://phongtrohoalac.com/thue-nha-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-900m",
+    "https://phongtrohoalac.com/thue-nha-tro-hoa-lac-phong-tro-khu-vuc-tan-xa-thach-that-ha-noi-nha-tro-tony-house",
+    "https://phongtrohoalac.com/thue-phong-tro-gan-dai-hoc-fpt-cho-thue-phong-tro-gan-dai-hoc-fpt-cach-duoi-3km-nha-tro-manh-thuyet",
+    "https://phongtrohoalac.com/thue-phong-tro-gan-dai-hoc-fpt-phong-tro-gan-fpt-cach-duoi-600m-nha-tro-chi-minh",
+    "https://phongtrohoalac.com/thue-phong-tro-gan-truong-fpt-cach-duoi-3km-nha-tro-anh-toan",
+    "https://phongtrohoalac.com/thue-phong-tro-khu-cong-nghe-cao-phong-tro-khu-cong-nghe-cao",
+    "https://phongtrohoalac.com/thue-phong-tro-quoc-oai",
+    "https://phongtrohoalac.com/thue-phong-tro-thach-that-ha-noi",
+    "https://phongtrohoalac.com/thue-phong-tro-thach-that-ha-noi-2",
+    "https://phongtrohoalac.com/thue-phong-tro-thach-that-ha-noi-nha-tro-an-binh",
+    "https://phongtrohoalac.com/thue-phong-tro-thach-that-ha-noi-nha-tro-an-thu-house",
+    "https://phongtrohoalac.com/thue-phong-tro-thach-that-ha-noi-nha-tro-anh-toan",
+    "https://phongtrohoalac.com/thue-phong-tro-thach-that-ha-noi-nha-tro-bac-ha",
+    "https://phongtrohoalac.com/thue-phong-tro-thach-that-ha-noi-nha-tro-binh-an",
+    "https://phongtrohoalac.com/thue-phong-tro-thach-that-ha-noi-nha-tro-co-hue",
+    "https://phongtrohoalac.com/thue-phong-tro-thach-that-ha-noi-nha-tro-dung-mai",
+    "https://phongtrohoalac.com/thue-phong-tro-thach-that-ha-noi-nha-tro-hai-thao",
+    "https://phongtrohoalac.com/thue-phong-tro-thach-that-ha-noi-nha-tro-tam-le",
+    "https://phongtrohoalac.com/thue-phong-tro-thach-that-ha-noi-nha-tro-thien-nguyet",
+    "https://phongtrohoalac.com/thue-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-33km-nha-tro-ha-truong",
+    "https://phongtrohoalac.com/thue-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-thoan-vu",
+    "https://phongtrohoalac.com/thue-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-co-luyen",
+    "https://phongtrohoalac.com/thue-tro-hoa-lac-phong-tro-gan-dai-hoc-fpt-ha-noi-cach-duoi-3km",
+    "https://phongtrohoalac.com/thue-tro-hoa-lac-phong-tro-khu-vuc-tan-xa-thach-that-ha-noi-nha-tro-dat-ha",
+    "https://phongtrohoalac.com/thue-tro-hoa-lac-toa-nha-violet-s-home",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-27km-nha-tro-thu-van",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-3km-nha-tro-hoang-lam-home",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-18km-nha-tro-trung-hieu-1",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-1km",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-kim-ngan",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-1km-nha-tro-thai-ha",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2-km-nha-tro-co-huong",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-chung-cu-mini-ky-ngan",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-anh-khanh",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-anh-vu",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-co-dung",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-dao-duy",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-hong-ngoc",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-luckyhousedtl",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-tro-trang-nguyen",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-chi-thanh-binh-yen",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-chu-minh-tan-xa",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-com-saximi",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-hong-nhan",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-lan-anh",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-manh-bo",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-nha-tro-viet-hang",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-3km-tro-co-phuong",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-4km-nha-tro-anh-duc",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-500m-nha-tro-bao-ngoc",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cho-thue-nha-gan-dai-hoc-fpt",
+    "https://phongtrohoalac.com/tim-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-ki-tuc-xanh",
+    "https://phongtrohoalac.com/tim-nha-tro-o-thach-that-nha-tro-thach-that-nha-tro-chi-mai",
+    "https://phongtrohoalac.com/tim-nha-tro-thach-that-nha-tro-chi-hop",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-2km-nha-tro-ha-noi-house-2",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-1km-chung-cu-mini-quynh-do",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-1km-nha-tro-bao-anh",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-1km-nha-tro-co-hong",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-1km-nha-tro-hoang-nhung",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-1km-nha-tro-thao-anh",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-1km-nha-tro-tien-phuong",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-200m-chung-cu-mini-aven-apartment",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-200m-nha-tro-an-nguyen",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-ba-kim",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-chu-khai",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-thai-chau",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-2km-nha-tro-tien-xuan-thach-that-ha-noi",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-3km",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-600m-nha-tro-hoa-vinh",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-600m-nha-tro-thanh-quyen",
+    "https://phongtrohoalac.com/tim-phong-tro-gan-dai-hoc-quoc-gia-ha-noi-cach-duoi-700m-nha-tro-gia-hung-apartment",
+    "https://phongtrohoalac.com/tm-nha-tro-gan-truong-dai-hoc-fpt-ha-noi-cach-duoi-2km-nha-nguyen-can-mat-duong-thon-4-thach-hoa",
+    "https://phongtrohoalac.com/tro-khu-cong-nghe-cao"
+  ]
+}
